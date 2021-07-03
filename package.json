@@ -1,5 +1,5 @@
 {
-    "name": "@island.is/login",
+    "name": "@island.is/legacy-login",
     "version": "1.2.0",
     "description": "Island.is Identification and Authentication Services (Login) for Node.js",
     "main": "index.js",

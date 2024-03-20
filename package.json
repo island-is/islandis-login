@@ -1,6 +1,6 @@
 {
     "name": "@island.is/login",
-    "version": "1.3.0",
+    "version": "1.4.0",
     "description": "Island.is Identification and Authentication Services (Login) for Node.js",
     "main": "index.js",
     "types": "index.d.ts",
@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/island-is/islandis-login"
+        "url": "git+https://github.com/island-is/islandis-login.git"
     },
     "keywords": [
         "SAML",
